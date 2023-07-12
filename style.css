@@ -51,10 +51,6 @@ h1{
 }
 
 .weather-container{
-    /* display: flex;
-    flex-direction: column;
-    justify-content: center ;
-    align-items: center; */
     margin-block:4rem;
 }
 
